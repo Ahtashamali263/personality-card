@@ -1,0 +1,119 @@
+body {
+  margin: 0px;
+  background-color: aqua;
+}
+.upperbox {
+  background-color: rgb(236, 159, 129);
+  border: solid 10px;
+  height: 200px;
+  width: 200px;
+  padding: 20px;
+}
+.secondupperbox {
+  background-color: rgb(67, 247, 91);
+  border: solid 10px;
+  height: 200px;
+  width: 200px;
+  padding: 20px;
+  margin-left: 1080px;
+  position: absolute;
+  top: 0px;
+}
+.thirdupperbox {
+  background-color: azure;
+  border: solid 10px;
+  height: 200px;
+  width: 200px;
+  padding: 20px;
+  margin-left: 540px;
+  position: absolute;
+  top: 0px;
+}
+.fourthupperbox {
+  background-color: rgb(229, 153, 219);
+  border: solid 10px;
+  height: 200px;
+  width: 200px;
+  padding: 20px;
+  margin-left: 1620px;
+  position: absolute;
+  top: 0px;
+}
+
+.midbox {
+  background-color: rgb(231, 33, 99);
+  height: 200px;
+  width: 200px;
+  padding: 20px;
+  margin-left: 260px;
+  border: solid 20px;
+}
+.secondmidbox {
+  background-color: rgb(128, 145, 221);
+
+  height: 200px;
+  width: 200px;
+  padding: 20px;
+  margin-left: 800px;
+  position: absolute;
+  top: 260px;
+  border: solid 20px;
+}
+.thirdmidbox {
+  background-color: rgb(233, 98, 36);
+
+  height: 200px;
+  width: 200px;
+  padding: 20px;
+  margin-left: 1340px;
+  position: absolute;
+  top: 260px;
+  border: solid 20px;
+}
+.bottombox {
+  background-color: rgb(230, 237, 1);
+  height: 200px;
+  width: 200px;
+  padding: 20px;
+  margin-left: 540px;
+  border: solid 10px;
+}
+.secondbottombox {
+  background-color: rgb(146, 237, 1);
+  border: solid 10px;
+  height: 200px;
+  width: 200px;
+  padding: 20px;
+  position: absolute;
+  top: 540px;
+}
+.thirdbottombox {
+  background-color: rgb(192, 70, 49);
+  height: 200px;
+  width: 200px;
+  padding: 20px;
+  margin-left: 1620px;
+  border: solid 10px;
+  position: absolute;
+  top: 535px;
+}
+.fourthbottombox {
+  background-color: rgb(52, 116, 236);
+  height: 200px;
+  width: 200px;
+  padding: 20px;
+  margin-left: 1080px;
+  border: solid 10px;
+  position: absolute;
+  top: 535px;
+}
+.description {
+  background-color: rgb(252, 252, 248);
+  height: 75px;
+  width: 1835px;
+  padding: 20px;
+  margin-left: 0px;
+  border: solid 10px;
+  position: absolute;
+  top: 800px;
+}
